@@ -1,6 +1,5 @@
 # Technology Information Sharing Group
 
-## Amazon Web Services - S3
+## Amazon Web Services - S3 (26/Julio/2022)
 
-Información compartida [aquí](https://docs.google.com/presentation/d/1ae207ZkDVAuJWqOLAw0KsAo8rn-CM-mHwP4BtZuRuRE/edit?usp=sharing "aquí").
-
+Ver [aquí](https://github.com/karpalypy/tech-share/tree/main/aws-s3 "aquí").
