@@ -36,6 +36,8 @@ Información compartida [aquí](https://docs.google.com/presentation/d/1ae207ZkD
   almacenamiento de menor costo. Se utiliza para archivar datos de larga duración, donde no nos preocupa el tiempo para acceder a los datos (incluso horas).
 
 ## S3 - Esquema de costos
+![Alt Text](https://raw.githubusercontent.com/karpalypy/tech-share/main/aws-s3/billing-meme.jpg)
+
 - Por almacenaje de objetos.
 - Por peticiones de acceso (S3 IA, S3 Zone IA y S3 Glacier).
 - Por transferencia de datos entre regiones (replicación de datos).
