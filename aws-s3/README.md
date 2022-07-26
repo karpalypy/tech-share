@@ -14,6 +14,9 @@ Información compartida [aquí](https://docs.google.com/presentation/d/1ae207ZkD
 - Encriptación de objetos.
 - Control de acceso por objeto y por bucket.
 
+![Alt Text](https://raw.githubusercontent.com/karpalypy/tech-share/main/aws-s3/chip-meme.jpg)
+
+
 ## S3 - Información de Objetos
 - Key: es el nombre del objeto. Usado para recuperar el objeto.
 - ID de versión: número de versión del objeto. Generado por Amazon S3 cuando se agrega un objeto a un bucket
@@ -55,6 +58,9 @@ S3 permite gestionar precios por cada objeto por separado, haciendo uso de etiqu
 - Habilitar el control de versiones en el bucket destino.
 - Crear **regla de replicación** en el **bucket origen**, indicando el **bucket destino** (backup). Incluso podemos usar un bucket de otra cuenta de AWS.
 
+![Alt Text](https://raw.githubusercontent.com/karpalypy/tech-share/main/aws-s3/putin-meme.jpg)
+
+
 ## S3 - Ciclo de vida de los objetos de un bucket
 Nos permite administrar los objetos de manera que se almacenen de manera económica durante todo su ciclo de vida.
 Existen dos tipos de acciones: 
@@ -63,6 +69,7 @@ Existen dos tipos de acciones:
 Estas configuraciones están en el tab de Administración del bucket.
 
 ## S3 - Seguridad y Encriptación
+![Alt Text](https://raw.githubusercontent.com/karpalypy/tech-share/main/aws-s3/dont-do-that-meme.png)
 
 - Todos los buckets de S3 por defecto son privados.
 - Se puede cambiar la configuración de control de acceso mediante:
