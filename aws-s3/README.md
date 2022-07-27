@@ -1,7 +1,5 @@
 # Amazon Web Services - Simple Storage Service S3
 
-Información compartida [aquí](https://docs.google.com/presentation/d/1ae207ZkDVAuJWqOLAw0KsAo8rn-CM-mHwP4BtZuRuRE/edit?usp=sharing "aquí").
-
 ## Características de Amazon S3
 - Almacenamiento de objetos (ficheros de cualquier tipo).
 - Escalabilidad, disponibilidad de datos, seguridad y gran rendimiento.
