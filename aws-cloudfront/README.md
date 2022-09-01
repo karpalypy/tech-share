@@ -24,10 +24,16 @@ Tambien trabaja perfectamente con otros servidores fuera de AWS.
 - El contenido estará cacheado el tiempo indicado en TTL.
 - Podemos borrar el contenido cacheado, pero adiciona coste.
 
+![Alt Text](https://github.com/karpalypy/tech-share/blob/main/aws-cloudfront/red-global-cloudfront.png)
+
+
+
 #### Origen
 - Es el servidor que contiene nuestros datos, que estará en algunas de las regiones de AWS.
 
 #### Distribución
 - Es una coleccion de ubicaciones borde (locales, edge), que pueden ser de tipo web (para distribución de sitios web) o de tipo RTMP (para el streaming de video).
+
+[Mas info](https://aws.amazon.com/es/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc)
 
 
