@@ -10,6 +10,13 @@ Está optimizado para trabajar con otros servicios de AWS, como S3 (almacenamien
 
 Tambien trabaja perfectamente con otros servidores fuera de AWS.
 
+## Ventajas de usar un CDN - CloutFront
+- Acelera la distribución de contenido estático tales como: .html, .css, .js, imagenes y videos para usuarios finales.
+- Tu contenido cacheado en todo el mundo.
+- Menos latencia y mejor experiencia de usuario.
+- Se paga solo por la transferencia de datos y las solicitudes que realmente use.
+- Sin costo de transferencia de datos entre regiones AWS y puntos de distribución CloudFront
+
 ### Casos de uso
 
 - Entregue sitios web completos (parte estática y parte dinamica, contenido interactivo, video, etc) de manera rápida y segura, utilizando una red global de localizaciones cercanas (edge) a los usuarios. Las peticiones a su web serán automaticamente enrutadas a la localización mas próxima del usuario, maximizando el rendimiento.
